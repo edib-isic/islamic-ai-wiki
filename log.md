@@ -35,4 +35,5 @@
 
 ## [2026-08-15] create | Cornerstone Faith Chapter
 - pillar-1/the-quran-your-instruction-manual.md — Quran as instruction manual for humanity: purpose, modern crisis, peace, practical life guidance
-- Updated index.md, pillar-1-faith-and-knowing-allah.md with links
+- pillar-1/knowing-allah-through-his-names.md — Deep dive into the 99 names, how each transforms your relationship with Allah, work, wealth, and peace (20k+ words)
+- Updated index.md, pillar-1-faith-and-knowing-allah.md, cross-links between chapters

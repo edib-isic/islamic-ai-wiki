@@ -38,6 +38,7 @@ Seeking knowledge is obligatory for every Muslim. Teaching others multiplies the
 ## Current Faith Content
 
 - **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: the Quran as the complete manual for humanity, purpose, peace, and why everything breaks without instructions
+- **[Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md)** — Deep dive into the 99 names and how each transforms your relationship with Allah, your work, your wealth, and your peace
 - [Amanah — Sacred Trust](concepts/amanah.md) — Wealth as divine trust
 - [Riba — Prohibition of Interest](concepts/riba.md) — Why Riba must be eliminated
 - [AAOIFI Shariah Standards](concepts/aaoifi-screening.md) — How to verify halal investments

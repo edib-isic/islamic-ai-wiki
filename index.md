@@ -56,8 +56,9 @@ From iCloudDrive/Akhirah — July 11, 2026:
 ### Pillar 1 — Faith & Knowing Allah
 
 - **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: why the Quran is the manual for humanity, purpose, the modern crisis, and how it brings true peace
+- **[Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md)** — Deep dive into the 99 names and how each one transforms your relationship with Allah, your work, your wealth, and your peace
 
 ## Stats
 
-- Total pages: 21
+- Total pages: 22
 - Last updated: 2026-08-15
