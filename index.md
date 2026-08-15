@@ -53,7 +53,11 @@ From iCloudDrive/Akhirah — July 11, 2026:
 - **[Portfolio Projects](pillar-2/ai-portfolio-projects.md)** — 5 projects to build proof of capability
 - **[AI Tools Directory](pillar-2/ai-tools-directory.md)** — Curated list of halal-friendly AI tools
 
+### Pillar 1 — Faith & Knowing Allah
+
+- **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: why the Quran is the manual for humanity, purpose, the modern crisis, and how it brings true peace
+
 ## Stats
 
-- Total pages: 20
+- Total pages: 21
 - Last updated: 2026-08-15

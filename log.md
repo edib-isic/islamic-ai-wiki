@@ -23,3 +23,16 @@
 - Created README.md (GitHub-facing)
 - Created _config.yml (GitHub Pages)
 - Pushed to: https://github.com/edib-isic/islamic-ai-wiki
+
+## [2026-08-15] create | AI for Halal Income Content
+- pillar-2/ai-freelancing-roadmap.md — 30-day path to first client
+- pillar-2/ai-agency-blueprint.md — Build a halal AI business
+- pillar-2/ai-pricing-guide.md — Exact prices for every AI service type
+- pillar-2/ai-portfolio-projects.md — 5 projects to build proof
+- pillar-2/ai-tools-directory.md — Halal-friendly AI tools
+- Updated index.md and pillar-2-ai-for-halal-income.md with links
+- Fixed: converted all wikilinks to standard markdown links
+
+## [2026-08-15] create | Cornerstone Faith Chapter
+- pillar-1/the-quran-your-instruction-manual.md — Quran as instruction manual for humanity: purpose, modern crisis, peace, practical life guidance
+- Updated index.md, pillar-1-faith-and-knowing-allah.md with links

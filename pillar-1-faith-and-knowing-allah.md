@@ -37,6 +37,7 @@ Seeking knowledge is obligatory for every Muslim. Teaching others multiplies the
 
 ## Current Faith Content
 
+- **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: the Quran as the complete manual for humanity, purpose, peace, and why everything breaks without instructions
 - [Amanah — Sacred Trust](concepts/amanah.md) — Wealth as divine trust
 - [Riba — Prohibition of Interest](concepts/riba.md) — Why Riba must be eliminated
 - [AAOIFI Shariah Standards](concepts/aaoifi-screening.md) — How to verify halal investments
@@ -44,7 +45,7 @@ Seeking knowledge is obligatory for every Muslim. Teaching others multiplies the
 
 ## Coming Soon
 
-- Quran on work and trade — comprehensive verse collection
+- Knowing Allah Through His Names — how understanding Allah's attributes transforms your relationship with Him
 - Hadith on wealth and business ethics — organized by topic
 - Islamic finance principles — deeper fiqh discussion
 - Tawakkul vs. planning — balancing trust in Allah with action
