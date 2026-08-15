@@ -15,7 +15,7 @@ Sadaqah Jariyah is ongoing charity that continues to benefit recipients and gene
 
 ### Quran
 
-> "The example of those who spend their wealth in the way of Allah is like a seed of grain, which grows seven spikes; in each spike is a hundred grains. And Allah multiplies His reward for whom He wills." [[Quran 2:261]]
+> "The example of those who spend their wealth in the way of Allah is like a seed of grain, which grows seven spikes; in each spike is a hundred grains. And Allah multiplies His reward for whom He wills." [Quran 2:261.md](Quran 2:261.md)
 
 The multiplication is real — but conditions apply:
 - The seed must be clean ([Riba-free wealth](concepts/riba.md))
@@ -32,7 +32,7 @@ The TMI profile identifies Sadaqah Jariyah as the core motivation: investing not
 
 ## The Mechanism
 
-1. **Clean wealth** — eliminate [Riba](concepts/riba.md) ([[Quran 2:278-279]])
+1. **Clean wealth** — eliminate [Riba](concepts/riba.md) ([Quran 2:278-279.md](Quran 2:278-279.md))
 2. **Halal investing** — [AAOIFI-screened](concepts/aaoifi-screening.md) portfolio growing over time
 3. **Disciplined growth** — [Steady Steward](comparisons/steady-steward-vs-actual-portfolio.md) approach: consistency over speculation
 4. **Generous deployment** — allocate portion of returns to ongoing charity

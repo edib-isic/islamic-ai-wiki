@@ -58,15 +58,11 @@ The progression:
 ## Current AI Content
 
 - [Income Model Strategy](queries/income-model-for-wiki.md) — How AI skills fund Sadaqah Jariyah
-
-## Coming Soon
-
-- AI freelancing roadmap — step-by-step guide to first client
-- AI agency blueprint — how to structure and run a halal AI agency
-- Pricing guide — how much to charge for AI services
-- Portfolio projects — ideas for building proof of capability
-- AI tools directory — best halal-friendly AI tools for each use case
-- Case studies — real examples of Muslims earning halal through AI
+- [AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md) — Step-by-step to first client in 30 days
+- [AI Agency Blueprint](pillar-2/ai-agency-blueprint.md) — Structure and run a halal AI agency
+- [Pricing Guide](pillar-2/ai-pricing-guide.md) — How much to charge for AI services
+- [Portfolio Projects](pillar-2/ai-portfolio-projects.md) — Build proof of capability
+- [AI Tools Directory](pillar-2/ai-tools-directory.md) — Best halal-friendly AI tools
 
 ## The Opportunity
 

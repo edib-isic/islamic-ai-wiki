@@ -27,7 +27,7 @@ See: [Riba — Prohibition of Interest](concepts/riba.md)
 
 ### 3. Trade is Permitted
 
-> "Allah has permitted trade and has forbidden interest." [[Quran 2:275]]
+> "Allah has permitted trade and has forbidden interest." [Quran 2:275.md](Quran 2:275.md)
 
 Business, entrepreneurship, and earning through real value are honored in Islam. AI tools and skills are modern vehicles for this.
 

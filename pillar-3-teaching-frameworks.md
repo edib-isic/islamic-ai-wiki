@@ -40,11 +40,11 @@ Knowledge that is not taught is wasted. This pillar contains ready-to-use lesson
 - AI basics for non-technical people
 - How to use AI tools without haram
 - Finding halal opportunities in AI
-- Freelancing with AI skills
-- Building an AI agency
-- Pricing your AI services
+- Freelancing with AI skills ([roadmap](pillar-2/ai-freelancing-roadmap.md))
+- Building an AI agency ([blueprint](pillar-2/ai-agency-blueprint.md))
+- Pricing your AI services ([guide](pillar-2/ai-pricing-guide.md))
 - Managing clients ethically
-- Scaling from freelancer to business owner
+- Scaling from freelancer to business owner ([agency blueprint](pillar-2/ai-agency-blueprint.md))
 
 ### Module 3: Wealth as Amanah (5 lessons)
 - Understanding Amanah in Islamic context

@@ -15,9 +15,9 @@ Amanah means a sacred trust from Allah. Wealth, time, and knowledge are not owne
 
 ### Quran
 
-> "Believe in Allah and His Messenger and spend from that of which He has made you trustees." [[Quran 57:7]]
+> "Believe in Allah and His Messenger and spend from that of which He has made you trustees." [Quran 57:7.md](Quran 57:7.md)
 
-> "And whatever you spend of good — it is for yourselves, and you do not spend except seeking the countenance of Allah." [[Quran 2:272]]
+> "And whatever you spend of good — it is for yourselves, and you do not spend except seeking the countenance of Allah." [Quran 2:272.md](Quran 2:272.md)
 
 ### Hadith
 
