@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+*.base
+
+# Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# System
+desktop.ini
