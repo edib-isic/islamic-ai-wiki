@@ -2,31 +2,27 @@
 
 **Inaugurated:** August 15, 2026
 **Steward:** Edib Isic
+**Repo:** https://github.com/edib-isic/islamic-ai-wiki
 
 ## Mission
 
-To create an ongoing charity resource (Sadaqah Jariyah) that bridges knowing Allah — the most valuable knowledge — with practical AI skills and halal wealth mastery for halal income. Teaching future generations how to succeed in the AI era righteously.
+To create an ongoing charity resource (Sadaqah Jariyah) that bridges knowing Allah — the most valuable knowledge — with practical AI skills and halal wealth mastery. Teaching future generations how to succeed in the AI era righteously.
 
 ## Three Pillars
 
-### 1. Knowing Allah & Living Rightly
-Quran/Sunnah on work, trade, knowledge-seeking, wealth ethics.
+1. **[Pillar 1: Faith & Knowing Allah](pillar-1-faith-and-knowing-allah.md)** — Quran, Sunnah, and Islamic principles on work, trade, knowledge, wealth, and ethics
+2. **[Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)** — Practical paths to earn through AI: agencies, freelancing, consulting, tools, services
+3. **[Pillar 3: Teaching Frameworks](pillar-3-teaching-frameworks.md)** — Lesson plans, course outlines, scripts so others can teach others
 
-### 2. AI for Halal Income
-Proven paths: agencies, freelancing, consulting, productized services.
+## Index
 
-### 3. Teaching Frameworks
-Ready-to-use lesson plans, scripts, and outlines so others can teach.
-
-## Current Content
-
-### Ingested Source Material (TMI — The Muslim Investor)
+### Ingested Source Material
 
 From iCloudDrive/Akhirah — July 11, 2026:
 
-- **[Mission Pledge](raw/articles/tmi-mission-pledge-edib-2026.md)** — Edib's written niyyah: ultimate metric is return on Akhirah, not ROI
+- **[Mission Pledge](raw/articles/tmi-mission-pledge-edib-2026.md)** — Edib's written niyyah: return on Akhirah over ROI
 - **[Compass Report / IIRS](raw/articles/tmi-compass-iirs-edib-2026.md)** — Score 62/100 (Building), Riba elimination urgent, debt ~$45K
-- **[Portfolio Mirror](raw/articles/tmi-mirror-portfolio-edib-2026.md)** — Mehdi's deep analysis: 100% crypto vs. Steady Steward profile (complete divergence)
+- **[Portfolio Mirror](raw/articles/tmi-mirror-portfolio-edib-2026.md)** — Mehdi's deep analysis: 100% crypto vs. Steady Steward profile
 - **[Investor Profile](raw/articles/tmi-investor-profile-edib-2026.md)** — "The Steady Steward": 100% spiritual focus, Building knowledge, 5-10 year horizon
 
 ### Entities
@@ -45,6 +41,11 @@ From iCloudDrive/Akhirah — July 11, 2026:
 
 - **[Steady Steward vs. Actual Portfolio](comparisons/steady-steward-vs-actual-portfolio.md)** — Gap analysis between profile and 100% crypto allocation
 
-## Next
+### Queries
 
-Give me your next source — URL, article, book, notes, or topic to research.
+- **[Income Model Strategy](queries/income-model-for-wiki.md)** — How this wiki generates money for Sadaqah Jariyah
+
+## Stats
+
+- Total pages: 15
+- Last updated: 2026-08-15
