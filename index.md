@@ -45,7 +45,15 @@ From iCloudDrive/Akhirah — July 11, 2026:
 
 - **[Income Model Strategy](queries/income-model-for-wiki.md)** — How this wiki generates money for Sadaqah Jariyah
 
+### AI for Halal Income
+
+- **[AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md)** — 30-day path to first client (niches, pricing, pitch templates)
+- **[AI Agency Blueprint](pillar-2/ai-agency-blueprint.md)** — Build a halal AI business (solo → team → full agency)
+- **[Pricing Guide](pillar-2/ai-pricing-guide.md)** — Exact prices for every AI service type
+- **[Portfolio Projects](pillar-2/ai-portfolio-projects.md)** — 5 projects to build proof of capability
+- **[AI Tools Directory](pillar-2/ai-tools-directory.md)** — Curated list of halal-friendly AI tools
+
 ## Stats
 
-- Total pages: 15
+- Total pages: 20
 - Last updated: 2026-08-15
