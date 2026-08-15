@@ -17,13 +17,13 @@ The most important knowledge is knowing Allah. Every other skill — AI, busines
 
 Wealth, time, and knowledge are not owned by you — they are entrusted by Allah. You are a trustee, not an owner. You will be audited.
 
-See: [[concepts/amanah.md|Amanah — Sacred Trust]]
+See: [Amanah — Sacred Trust](concepts/amanah.md)
 
 ### 2. Riba is Forbidden
 
 Any guaranteed return detached from real economic activity is prohibited. Eliminating Riba is not optional — the Quran declares war from Allah and His Messenger on those who continue it.
 
-See: [[concepts/riba.md|Riba — Prohibition of Interest]]
+See: [Riba — Prohibition of Interest](concepts/riba.md)
 
 ### 3. Trade is Permitted
 
@@ -37,10 +37,10 @@ Seeking knowledge is obligatory for every Muslim. Teaching others multiplies the
 
 ## Current Faith Content
 
-- [[concepts/amanah.md|Amanah — Sacred Trust]] — Wealth as divine trust
-- [[concepts/riba.md|Riba — Prohibition of Interest]] — Why Riba must be eliminated
-- [[concepts/aaoifi-screening.md|AAOIFI Shariah Standards]] — How to verify halal investments
-- [[concepts/sadaqah-jariyah.md|Sadaqah Jariyah — Ongoing Charity]] — Wealth motivation tied to Akhirah
+- [Amanah — Sacred Trust](concepts/amanah.md) — Wealth as divine trust
+- [Riba — Prohibition of Interest](concepts/riba.md) — Why Riba must be eliminated
+- [AAOIFI Shariah Standards](concepts/aaoifi-screening.md) — How to verify halal investments
+- [Sadaqah Jariyah — Ongoing Charity](concepts/sadaqah-jariyah.md) — Wealth motivation tied to Akhirah
 
 ## Coming Soon
 
@@ -60,5 +60,5 @@ If the answer is unclear, the decision is unclear. Pause. Research. Ask a schola
 
 ## Related
 
-- [[pillar-2-ai-for-halal-income.md|Pillar 2: AI for Halal Income]] — Applying faith to AI work
-- [[pillar-3-teaching-frameworks.md|Pillar 3: Teaching Frameworks]] — How to teach others
+- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md) — Applying faith to AI work
+- [Pillar 3: Teaching Frameworks](pillar-3-teaching-frameworks.md) — How to teach others

@@ -16,8 +16,8 @@ AI is one of the most powerful tools for halal income in this generation. It dem
 ### 1. Halal Revenue First
 
 Every AI business must pass the test:
-- No Riba-based structures ([[concepts/riba.md|see Riba]])
-- No impermissible products ([[concepts/aaoifi-screening.md|AAOIFI principles]])
+- No Riba-based structures ([see Riba](concepts/riba.md))
+- No impermissible products ([AAOIFI principles](concepts/aaoifi-screening.md))
 - Transparent pricing, no deception
 - Real value delivered (not empty promises)
 
@@ -57,7 +57,7 @@ The progression:
 
 ## Current AI Content
 
-- [[queries/income-model-for-wiki.md|Income Model Strategy]] — How AI skills fund Sadaqah Jariyah
+- [Income Model Strategy](queries/income-model-for-wiki.md) — How AI skills fund Sadaqah Jariyah
 
 ## Coming Soon
 
@@ -79,6 +79,6 @@ This is a niche you can own.
 
 ## Related
 
-- [[pillar-1-faith-and-knowing-allah.md|Pillar 1: Faith]] — the foundation
-- [[concepts/sadaqah-jariyah.md|Sadaqah Jariyah]] — the purpose
-- [[entities/edib-isic.md|Edib Isic Profile]] — your background and strengths
+- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — the foundation
+- [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — the purpose
+- [Edib Isic Profile](entities/edib-isic.md) — your background and strengths

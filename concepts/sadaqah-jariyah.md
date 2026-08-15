@@ -18,9 +18,9 @@ Sadaqah Jariyah is ongoing charity that continues to benefit recipients and gene
 > "The example of those who spend their wealth in the way of Allah is like a seed of grain, which grows seven spikes; in each spike is a hundred grains. And Allah multiplies His reward for whom He wills." [[Quran 2:261]]
 
 The multiplication is real — but conditions apply:
-- The seed must be clean ([[concepts/riba.md|Riba-free wealth]])
-- The soil must be halal ([[concepts/aaoifi-screening.md|Shariah-compliant investment]])
-- The farmer must be patient ([[concepts/amanah.md|sabr, steady stewardship]])
+- The seed must be clean ([Riba-free wealth](concepts/riba.md))
+- The soil must be halal ([Shariah-compliant investment](concepts/aaoifi-screening.md))
+- The farmer must be patient ([sabr, steady stewardship](concepts/amanah.md))
 
 ### Hadith
 
@@ -32,26 +32,26 @@ The TMI profile identifies Sadaqah Jariyah as the core motivation: investing not
 
 ## The Mechanism
 
-1. **Clean wealth** — eliminate [[concepts/riba.md|Riba]] ([[Quran 2:278-279]])
-2. **Halal investing** — [[concepts/aaoifi-screening.md|AAOIFI-screened]] portfolio growing over time
-3. **Disciplined growth** — [[comparisons/steady-steward-vs-actual-portfolio.md|Steady Steward]] approach: consistency over speculation
+1. **Clean wealth** — eliminate [Riba](concepts/riba.md) ([[Quran 2:278-279]])
+2. **Halal investing** — [AAOIFI-screened](concepts/aaoifi-screening.md) portfolio growing over time
+3. **Disciplined growth** — [Steady Steward](comparisons/steady-steward-vs-actual-portfolio.md) approach: consistency over speculation
 4. **Generous deployment** — allocate portion of returns to ongoing charity
 5. **Teach others** — create resources so others can replicate this path
 
-Key insight from [[entities/tmi-the-muslim-investor.md|TMI]]: a portfolio that doubles over 10 years can double the charity funded — making disciplined halal investing a Sadaqah Jariyah engine.^[raw/articles/tmi-investor-profile-edib-2026.md]
+Key insight from [TMI](entities/tmi-the-muslim-investor.md): a portfolio that doubles over 10 years can double the charity funded — making disciplined halal investing a Sadaqah Jariyah engine.^[raw/articles/tmi-investor-profile-edib-2026.md]
 
 ## This Wiki as Sadaqah Jariyah
 
 This entire knowledge base is structured as a Sadaqah Jariyah project:
-- It teaches [[concepts/amanah.md|knowing Allah]] and [[pillar-1-faith-and-knowing-allah.md|Islamic principles on wealth]]
-- It provides [[pillar-2-ai-for-halal-income.md|practical AI paths]] to earn halal income
-- It includes [[pillar-3-teaching-frameworks.md|teaching frameworks]] so others can teach others
+- It teaches [knowing Allah](concepts/amanah.md) and [Islamic principles on wealth](pillar-1-faith-and-knowing-allah.md)
+- It provides [practical AI paths](pillar-2-ai-for-halal-income.md) to earn halal income
+- It includes [teaching frameworks](pillar-3-teaching-frameworks.md) so others can teach others
 
 Each person who learns, applies, and teaches from this resource generates ongoing reward — the definition of Sadaqah Jariyah.
 
 ## Related
 
-- [[concepts/amanah.md|Amanah]] — wealth as sacred trust
-- [[concepts/riba.md|Riba]] — must be eliminated first
-- [[entities/tmi-the-muslim-investor.md|TMI]] — framework that inspired this approach
-- [[queries/income-model-for-wiki.md|Income Model]] — how this wiki generates charity funding
+- [Amanah](concepts/amanah.md) — wealth as sacred trust
+- [Riba](concepts/riba.md) — must be eliminated first
+- [TMI](entities/tmi-the-muslim-investor.md) — framework that inspired this approach
+- [Income Model](queries/income-model-for-wiki.md) — how this wiki generates charity funding

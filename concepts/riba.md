@@ -43,11 +43,11 @@ Uncertain halal status of wealth casts shadow on:
 - Zakat paid from it
 - Sadaqah given with it
 
-From [[entities/tmi-the-muslim-investor.md|TMI Purification Audit]]: any impermissible elements in portfolio require immediate following of Emergency Purification Guide.^[raw/articles/tmi-investor-profile-edib-2026.md]
+From [TMI Purification Audit](entities/tmi-the-muslim-investor.md): any impermissible elements in portfolio require immediate following of Emergency Purification Guide.^[raw/articles/tmi-investor-profile-edib-2026.md]
 
 ## Elimination Strategy
 
-From [[raw/articles/tmi-compass-iirs-edib-2026.md|IIRS Compass Report]]:
+From [IIRS Compass Report](raw/articles/tmi-compass-iirs-edib-2026.md):
 
 1. Identify all Riba exposure (debt, accounts, investments)
 2. Prioritize by interest rate and balance
@@ -65,7 +65,7 @@ AI businesses must also avoid Riba:
 
 ## Related
 
-- [[concepts/amanah.md|Amanah]] — clean wealth is required for proper Amanah
-- [[concepts/aaoifi-screening.md|AAOIFI Screening]] — how to verify investments are Riba-free
-- [[concepts/sadaqah-jariyah.md|Sadaqah Jariyah]] — charity from Riba-tainted wealth is questionable
-- [[pillar-1-faith-and-knowing-allah.md|Pillar 1: Faith]] — foundational Islamic finance principles
+- [Amanah](concepts/amanah.md) — clean wealth is required for proper Amanah
+- [AAOIFI Screening](concepts/aaoifi-screening.md) — how to verify investments are Riba-free
+- [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — charity from Riba-tainted wealth is questionable
+- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — foundational Islamic finance principles

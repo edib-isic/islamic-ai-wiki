@@ -39,7 +39,7 @@ Items 3, 4, and 5 directly concern wealth and knowledge as Amanah.
 
 ## Edib's Declaration
 
-From the [[raw/articles/tmi-mission-pledge-edib-2026.md|Mission Pledge]]:
+From the [Mission Pledge](raw/articles/tmi-mission-pledge-edib-2026.md):
 
 > "I recognize that my wealth, my time, and my knowledge are not my own; they are an Amanah — a sacred trust from Allah Subhanahu wa Ta'ala. My goal is not just profit, my goal is purity."
 
@@ -48,12 +48,12 @@ From the [[raw/articles/tmi-mission-pledge-edib-2026.md|Mission Pledge]]:
 ## Practical Implications for AI Work
 
 - AI tools and knowledge are Amanah — use them for halal purposes only
-- Income generated through AI must follow [[concepts/riba.md|Riba-free]] principles
+- Income generated through AI must follow [Riba-free](concepts/riba.md) principles
 - Teaching AI skills to others is fulfilling the Amanah of knowledge
 - Every business decision with AI should pass the Amanah test: would this be acceptable on Judgment Day?
 
 ## Related
 
-- [[concepts/sadaqah-jariyah.md|Sadaqah Jariyah]] — ultimate use of Amanah wealth
-- [[concepts/riba.md|Riba]] — must be eliminated from Amanah wealth
-- [[pillar-1-faith-and-knowing-allah.md|Pillar 1: Faith]] — the foundation of Amanah
+- [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — ultimate use of Amanah wealth
+- [Riba](concepts/riba.md) — must be eliminated from Amanah wealth
+- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — the foundation of Amanah
