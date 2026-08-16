@@ -117,6 +117,6 @@ Before you can sell AI services, you need proof you can deliver. Here are 5 proj
 
 ## Related
 
-- [AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md)
-- [AI Agency Blueprint](pillar-2/ai-agency-blueprint.md)
-- [Pricing Guide for AI Services](pillar-2/ai-pricing-guide.md)
+- [AI Freelancing Roadmap](ai-freelancing-roadmap.md)
+- [AI Agency Blueprint](ai-agency-blueprint.md)
+- [Pricing Guide for AI Services](ai-pricing-guide.md)

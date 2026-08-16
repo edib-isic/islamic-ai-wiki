@@ -89,6 +89,6 @@ Price too low, you attract bad clients. Price too high, you scare away good ones
 
 ## Related
 
-- [AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md)
-- [AI Agency Blueprint](pillar-2/ai-agency-blueprint.md)
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
+- [AI Freelancing Roadmap](ai-freelancing-roadmap.md)
+- [AI Agency Blueprint](ai-agency-blueprint.md)
+- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)

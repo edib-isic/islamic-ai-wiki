@@ -133,7 +133,7 @@ Target Muslim-owned businesses:
 - **20-40%** — Personal income
 - **5-10%** — Zakat/Sadaqah (ongoing charity)
 
-This allocation keeps you aligned with [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) goals while growing sustainably.
+This allocation keeps you aligned with [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md) goals while growing sustainably.
 
 ## Tools You'll Use
 
@@ -152,7 +152,7 @@ This allocation keeps you aligned with [Sadaqah Jariyah](concepts/sadaqah-jariya
 
 ## Related
 
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
-- [AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md) (prerequisite)
-- [Pricing Guide for AI Services](pillar-2/ai-pricing-guide.md)
-- [Income Model Strategy](queries/income-model-for-wiki.md)
+- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- [AI Freelancing Roadmap](ai-freelancing-roadmap.md) (prerequisite)
+- [Pricing Guide for AI Services](ai-pricing-guide.md)
+- [Income Model Strategy](../queries/income-model-for-wiki.md)

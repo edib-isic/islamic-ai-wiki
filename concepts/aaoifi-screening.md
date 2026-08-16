@@ -13,7 +13,7 @@ AAOIFI = Accounting and Auditing Organization for Islamic Financial Institutions
 
 ## Role in TMI Framework
 
-When [TMI](entities/tmi-the-muslim-investor.md) says an investment is "Shariah-compliant," it means it meets AAOIFI standards. Understanding AAOIFI is described as not academic — it is the practical tool for ensuring every euro invested is halal.^[raw/articles/tmi-investor-profile-edib-2026.md]
+When [TMI](../entities/tmi-the-muslim-investor.md) says an investment is "Shariah-compliant," it means it meets AAOIFI standards. Understanding AAOIFI is described as not academic — it is the practical tool for ensuring every euro invested is halal.^[raw/articles/tmi-investor-profile-edib-2026.md]
 
 ## Equity Screening (Two Layers)
 
@@ -49,6 +49,6 @@ AI businesses should also understand AAOIFI principles:
 
 ## Related
 
-- [Riba](concepts/riba.md) — AAOIFI screens ensure Riba-free structures
-- [Amanah](concepts/amanah.md) — investing through AAOIFI standards fulfills Amanah
-- [TMI](entities/tmi-the-muslim-investor.md) — uses AAOIFI as primary compliance framework
+- [Riba](riba.md) — AAOIFI screens ensure Riba-free structures
+- [Amanah](amanah.md) — investing through AAOIFI standards fulfills Amanah
+- [TMI](../entities/tmi-the-muslim-investor.md) — uses AAOIFI as primary compliance framework

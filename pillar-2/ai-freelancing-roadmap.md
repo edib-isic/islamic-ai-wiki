@@ -131,7 +131,7 @@ Every client contract should be clear:
 
 ## Related
 
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
-- [Income Model Strategy](queries/income-model-for-wiki.md)
+- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- [Income Model Strategy](../queries/income-model-for-wiki.md)
 - [AI Agency Blueprint](ai-agency-blueprint.md) (next step)
 - [Pricing Guide for AI Services](ai-pricing-guide.md)

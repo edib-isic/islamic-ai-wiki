@@ -15,9 +15,9 @@ Riba encompasses any predetermined, guaranteed return on money lent or invested 
 
 ### Quran — The Severity
 
-> "Allah has permitted trade and has forbidden interest." [Quran 2:275.md](Quran 2:275.md)
+> "Allah has permitted trade and has forbidden interest." [Quran 2:275](https://quran.com/Quran 2:275.replace("Quran ","").split(":")[0]/Quran 2:275.replace("Quran ","").split(":")[1])(Quran 2:275.md)
 
-> "O you who have believed, fear Allah and give up what remains of interest, if you should be believers. And if you do not, then be informed of a war from Allah and His Messenger." [Quran 2:278-279.md](Quran 2:278-279.md)
+> "O you who have believed, fear Allah and give up what remains of interest, if you should be believers. And if you do not, then be informed of a war from Allah and His Messenger." [Quran 2:278-279](https://quran.com/)(Quran 2:278-279.md)
 
 The Quran declares war from Allah and His Messenger on those who continue Riba after prohibition. This is not a minor preference — it is a boundary defined directly by Allah.
 
@@ -43,7 +43,7 @@ Uncertain halal status of wealth casts shadow on:
 - Zakat paid from it
 - Sadaqah given with it
 
-From [TMI Purification Audit](entities/tmi-the-muslim-investor.md): any impermissible elements in portfolio require immediate following of Emergency Purification Guide.^[raw/articles/tmi-investor-profile-edib-2026.md]
+From [TMI Purification Audit](../entities/tmi-the-muslim-investor.md): any impermissible elements in portfolio require immediate following of Emergency Purification Guide.^[raw/articles/tmi-investor-profile-edib-2026.md]
 
 ## Elimination Strategy
 
@@ -65,7 +65,7 @@ AI businesses must also avoid Riba:
 
 ## Related
 
-- [Amanah](concepts/amanah.md) — clean wealth is required for proper Amanah
-- [AAOIFI Screening](concepts/aaoifi-screening.md) — how to verify investments are Riba-free
-- [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — charity from Riba-tainted wealth is questionable
-- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — foundational Islamic finance principles
+- [Amanah](amanah.md) — clean wealth is required for proper Amanah
+- [AAOIFI Screening](aaoifi-screening.md) — how to verify investments are Riba-free
+- [Sadaqah Jariyah](sadaqah-jariyah.md) — charity from Riba-tainted wealth is questionable
+- [Pillar 1: Faith](../pillar-1-faith-and-knowing-allah.md) — foundational Islamic finance principles

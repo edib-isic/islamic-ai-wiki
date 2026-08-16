@@ -71,6 +71,6 @@ Most AI tools are halal-friendly since they provide software services. However:
 
 ## Related
 
-- [AI Freelancing Roadmap](pillar-2/ai-freelancing-roadmap.md)
-- [AI Agency Blueprint](pillar-2/ai-agency-blueprint.md)
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
+- [AI Freelancing Roadmap](ai-freelancing-roadmap.md)
+- [AI Agency Blueprint](ai-agency-blueprint.md)
+- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)

@@ -245,9 +245,9 @@ And know that every hour you spend working honestly — Allah is watching, and H
 
 ## Navigation
 
-- **Previous:** [Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md)
-- **Next:** [Wealth in the Quran — Verses About Money, Trade, and Charity](pillar-1/wealth-in-the-quran.md)
-- **Related:** [Pillar 1: Faith & Knowing Allah](pillar-1-faith-and-knowing-allah.md), [Ar-Razzaq — The Provider](pillar-1/knowing-allah-through-his-names.md#11-ar-razzaq-al-razzaq-the-provider), [Sadaqah Jariyah](concepts/sadaqah-jariyah.md), [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
+- **Previous:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md)
+- **Next:** [Wealth in the Quran — Verses About Money, Trade, and Charity](wealth-in-the-quran.md)
+- **Related:** [Pillar 1: Faith & Knowing Allah](../pillar-1-faith-and-knowing-allah.md), [Ar-Razzaq — The Provider](knowing-allah-through-his-names.md#11-ar-razzaq-al-razzaq-the-provider), [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md), [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
 
 ## Reflection Questions
 

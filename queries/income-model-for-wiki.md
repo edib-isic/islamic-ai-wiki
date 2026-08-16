@@ -85,6 +85,6 @@ Based on your profile (Software Engineer, late 40s, income under €50K, $45K de
 
 ## Related
 
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
-- [Sadaqah Jariyah](concepts/sadaqah-jariyah.md)
-- [Edib Isic Profile](entities/edib-isic.md)
+- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md)
+- [Edib Isic Profile](../entities/edib-isic.md)

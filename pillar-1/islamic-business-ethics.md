@@ -281,9 +281,9 @@ And watch what Allah does for you.
 
 ## Navigation
 
-- **Previous:** [Tawakkul vs. Planning — Trusting Allah While Taking Action](pillar-1/tawakkul-vs-planning.md)
-- **Next:** [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md)
-- **Related:** [Work as Worship](pillar-1/work-as-worship.md), [Wealth in the Quran](pillar-1/wealth-in-the-quran.md), [Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md), [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md), [Pillar 3: Teaching Frameworks](pillar-3-teaching-frameworks.md)
+- **Previous:** [Tawakkul vs. Planning — Trusting Allah While Taking Action](tawakkul-vs-planning.md)
+- **Next:** [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- **Related:** [Work as Worship](work-as-worship.md), [Wealth in the Quran](wealth-in-the-quran.md), [Knowing Allah Through His Names](knowing-allah-through-his-names.md), [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md), [Pillar 3: Teaching Frameworks](../pillar-3-teaching-frameworks.md)
 
 ## Reflection Questions
 

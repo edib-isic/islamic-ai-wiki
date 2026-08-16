@@ -27,7 +27,7 @@ See: [Riba — Prohibition of Interest](concepts/riba.md)
 
 ### 3. Trade is Permitted
 
-> "Allah has permitted trade and has forbidden interest." [Quran 2:275.md](Quran 2:275.md)
+> "Allah has permitted trade and has forbidden interest." [Quran 2:275](https://quran.com/Quran 2:275.replace("Quran ","").split(":")[0]/Quran 2:275.replace("Quran ","").split(":")[1])(Quran 2:275.md)
 
 Business, entrepreneurship, and earning through real value are honored in Islam. AI tools and skills are modern vehicles for this.
 
@@ -39,6 +39,10 @@ Seeking knowledge is obligatory for every Muslim. Teaching others multiplies the
 
 - **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: the Quran as the complete manual for humanity, purpose, peace, and why everything breaks without instructions
 - **[Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md)** — Deep dive into the 99 names and how each transforms your relationship with Allah, your work, your wealth, and your peace
+- **[Work as Worship](pillar-1/work-as-worship.md)** — How every honest effort becomes ibadah when you understand the right intention
+- **[Wealth in the Quran](pillar-1/wealth-in-the-quran.md)** — Verses about money, trade, charity, and how to handle wealth correctly
+- **[Tawakkul vs. Planning](pillar-1/tawakkul-vs-planning.md)** — Trusting Allah while taking action — what real Tawakkul means
+- **[Islamic Business Ethics](pillar-1/islamic-business-ethics.md)** — Principles for halal business success: honesty, fairness, quality, and integrity
 - [Amanah — Sacred Trust](concepts/amanah.md) — Wealth as divine trust
 - [Riba — Prohibition of Interest](concepts/riba.md) — Why Riba must be eliminated
 - [AAOIFI Shariah Standards](concepts/aaoifi-screening.md) — How to verify halal investments

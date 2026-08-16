@@ -57,6 +57,10 @@ From iCloudDrive/Akhirah — July 11, 2026:
 
 - **[The Quran — Your Instruction Manual for Existence](pillar-1/the-quran-your-instruction-manual.md)** — Cornerstone chapter: why the Quran is the manual for humanity, purpose, the modern crisis, and how it brings true peace
 - **[Knowing Allah Through His Names](pillar-1/knowing-allah-through-his-names.md)** — Deep dive into the 99 names and how each one transforms your relationship with Allah, your work, your wealth, and your peace
+- **[Work as Worship](pillar-1/work-as-worship.md)** — How every honest effort becomes ibadah when you understand the right intention
+- **[Wealth in the Quran](pillar-1/wealth-in-the-quran.md)** — Verses about money, trade, charity, and how to handle wealth correctly
+- **[Tawakkul vs. Planning](pillar-1/tawakkul-vs-planning.md)** — Trusting Allah while taking action — what real Tawakkul means
+- **[Islamic Business Ethics](pillar-1/islamic-business-ethics.md)** — Principles for halal business success: honesty, fairness, quality, and integrity
 
 ## Stats
 
