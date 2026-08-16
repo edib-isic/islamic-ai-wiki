@@ -72,6 +72,6 @@ Each module can be delivered as:
 
 ## Related
 
-- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — what to teach about faith
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md) — what to teach about AI
+- [Pillar 1: Faith](../pillar-1/) — what to teach about faith
+- [Pillar 2: AI for Halal Income](../pillar-2/) — what to teach about AI
 - [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — the purpose of teaching

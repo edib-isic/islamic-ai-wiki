@@ -66,5 +66,5 @@ If the answer is unclear, the decision is unclear. Pause. Research. Ask a schola
 
 ## Related
 
-- [Pillar 2: AI for Halal Income](pillar-2-ai-for-halal-income.md) — Applying faith to AI work
-- [Pillar 3: Teaching Frameworks](pillar-3-teaching-frameworks.md) — How to teach others
+- [Pillar 2: AI for Halal Income](../pillar-2/) — Applying faith to AI work
+- [Pillar 3: Teaching Frameworks](../pillar-3/) — How to teach others

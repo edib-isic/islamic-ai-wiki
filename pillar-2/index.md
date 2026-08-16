@@ -75,6 +75,6 @@ This is a niche you can own.
 
 ## Related
 
-- [Pillar 1: Faith](pillar-1-faith-and-knowing-allah.md) — the foundation
+- [Pillar 1: Faith & Knowing Allah](../pillar-1/) — the foundation
 - [Sadaqah Jariyah](concepts/sadaqah-jariyah.md) — the purpose
 - [Edib Isic Profile](entities/edib-isic.md) — your background and strengths

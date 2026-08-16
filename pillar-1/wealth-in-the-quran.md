@@ -251,7 +251,7 @@ And you'll be on the right path.
 
 - **Previous:** [Work as Worship — Turning Every Honest Effort Into Ibadah](work-as-worship.md)
 - **Next:** [Tawakkul vs. Planning — Trusting Allah While Taking Action](tawakkul-vs-planning.md)
-- **Related:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md), [Ar-Razzaq — The Provider](knowing-allah-through-his-names.md#11-ar-razzaq-al-razzaq-the-provider), [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md), [Riba — Prohibition of Interest](../concepts/riba.md), [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- **Related:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md), [Ar-Razzaq — The Provider](knowing-allah-through-his-names.md#11-ar-razzaq-al-razzaq-the-provider), [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md), [Riba — Prohibition of Interest](../concepts/riba.md), [Pillar 2: AI for Halal Income](../../pillar-2/)
 
 ## Reflection Questions
 

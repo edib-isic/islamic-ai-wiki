@@ -43,9 +43,9 @@ Key insight from [TMI](../entities/tmi-the-muslim-investor.md): a portfolio that
 ## This Wiki as Sadaqah Jariyah
 
 This entire knowledge base is structured as a Sadaqah Jariyah project:
-- It teaches [knowing Allah](amanah.md) and [Islamic principles on wealth](../pillar-1-faith-and-knowing-allah.md)
-- It provides [practical AI paths](../pillar-2-ai-for-halal-income.md) to earn halal income
-- It includes [teaching frameworks](../pillar-3-teaching-frameworks.md) so others can teach others
+- It teaches [knowing Allah](amanah.md) and [Islamic principles on wealth](../../pillar-1/)
+- It provides [practical AI paths](../../pillar-2/) to earn halal income
+- It includes [teaching frameworks](../../pillar-3/) so others can teach others
 
 Each person who learns, applies, and teaches from this resource generates ongoing reward — the definition of Sadaqah Jariyah.
 

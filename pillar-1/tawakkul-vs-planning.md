@@ -250,7 +250,7 @@ That's real Tawakkul.
 
 - **Previous:** [Wealth in the Quran — Verses About Money, Trade, and Charity](wealth-in-the-quran.md)
 - **Next:** [Islamic Business Ethics — Principles for Halal Business Success](islamic-business-ethics.md)
-- **Related:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md), [Al-Wakil — The Disposer of Affairs](knowing-allah-through-his-names.md#9-al-wakil-al-wakil-the-disposer-of-affairs), [Work as Worship](work-as-worship.md), [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- **Related:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md), [Al-Wakil — The Disposer of Affairs](knowing-allah-through-his-names.md#9-al-wakil-al-wakil-the-disposer-of-affairs), [Work as Worship](work-as-worship.md), [Pillar 2: AI for Halal Income](../../pillar-2/)
 
 ## Reflection Questions
 

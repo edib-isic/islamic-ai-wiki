@@ -16,9 +16,9 @@
 - Comparison page: comparisons/steady-steward-vs-actual-portfolio.md
 
 ## [2026-08-15] create | Pillar Pages + Infrastructure
-- Created pillar-1-faith-and-knowing-allah.md
-- Created pillar-2-ai-for-halal-income.md
-- Created pillar-3-teaching-frameworks.md
+- Created ../pillar-1/
+- Created ../pillar-2/
+- Created ../pillar-3/
 - Created queries/income-model-for-wiki.md
 - Created README.md (GitHub-facing)
 - Created _config.yml (GitHub Pages)
@@ -31,7 +31,7 @@
 - pillar-1/wealth-in-the-quran.md — Verses about money, trade, charity, and how to handle wealth correctly
 - pillar-1/tawakkul-vs-planning.md — Trusting Allah while taking action — what real Tawakkul means
 - pillar-1/islamic-business-ethics.md — Principles for halal business success: honesty, fairness, quality, and integrity
-- Updated index.md, pillar-1-faith-and-knowing-allah.md, cross-links between chapters
+- Updated index.md, ../pillar-1/, cross-links between chapters
 
 ## [2026-08-15] create | AI for Halal Income Content
 - pillar-2/ai-freelancing-roadmap.md — 30-day path to first client
@@ -39,10 +39,10 @@
 - pillar-2/ai-pricing-guide.md — Exact prices for every AI service type
 - pillar-2/ai-portfolio-projects.md — 5 projects to build proof
 - pillar-2/ai-tools-directory.md — Halal-friendly AI tools
-- Updated index.md and pillar-2-ai-for-halal-income.md with links
+- Updated index.md and ../pillar-2/ with links
 - Fixed: converted all wikilinks to standard markdown links
 
 ## [2026-08-15] create | Cornerstone Faith Chapter
 - pillar-1/the-quran-your-instruction-manual.md — Quran as instruction manual for humanity: purpose, modern crisis, peace, practical life guidance
 - pillar-1/knowing-allah-through-his-names.md — Deep dive into the 99 names, how each transforms your relationship with Allah, work, wealth, and peace (20k+ words)
-- Updated index.md, pillar-1-faith-and-knowing-allah.md, cross-links between chapters
+- Updated index.md, ../pillar-1/, cross-links between chapters

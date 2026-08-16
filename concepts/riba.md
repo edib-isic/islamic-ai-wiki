@@ -68,4 +68,4 @@ AI businesses must also avoid Riba:
 - [Amanah](amanah.md) — clean wealth is required for proper Amanah
 - [AAOIFI Screening](aaoifi-screening.md) — how to verify investments are Riba-free
 - [Sadaqah Jariyah](sadaqah-jariyah.md) — charity from Riba-tainted wealth is questionable
-- [Pillar 1: Faith](../pillar-1-faith-and-knowing-allah.md) — foundational Islamic finance principles
+- [Pillar 1: Faith](../../pillar-1/) — foundational Islamic finance principles

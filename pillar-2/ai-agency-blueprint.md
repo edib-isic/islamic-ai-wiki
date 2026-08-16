@@ -152,7 +152,7 @@ This allocation keeps you aligned with [Sadaqah Jariyah](../concepts/sadaqah-jar
 
 ## Related
 
-- [Pillar 2: AI for Halal Income](../pillar-2-ai-for-halal-income.md)
+- [Pillar 2: AI for Halal Income](../../pillar-2/)
 - [AI Freelancing Roadmap](ai-freelancing-roadmap.md) (prerequisite)
 - [Pricing Guide for AI Services](ai-pricing-guide.md)
 - [Income Model Strategy](../queries/income-model-for-wiki.md)

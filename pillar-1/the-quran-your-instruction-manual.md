@@ -214,9 +214,9 @@ If you're already connected:
 
 ## Navigation
 
-- **Previous:** [Pillar 1: Faith & Knowing Allah](../pillar-1-faith-and-knowing-allah.md)
+- **Previous:** [Pillar 1: Faith & Knowing Allah](../../pillar-1/)
 - **Next:** [Knowing Allah Through His Names](knowing-allah-through-his-names.md)
-- **Related:** [Amanah — Sacred Trust](../concepts/amanah.md), [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md), [Teaching Frameworks](../pillar-3-teaching-frameworks.md)
+- **Related:** [Amanah — Sacred Trust](../concepts/amanah.md), [Sadaqah Jariyah](../concepts/sadaqah-jariyah.md), [Teaching Frameworks](../../pillar-3/)
 
 ## Reflection Questions
 

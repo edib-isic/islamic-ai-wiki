@@ -56,4 +56,4 @@ From the [Mission Pledge](raw/articles/tmi-mission-pledge-edib-2026.md):
 
 - [Sadaqah Jariyah](sadaqah-jariyah.md) — ultimate use of Amanah wealth
 - [Riba](riba.md) — must be eliminated from Amanah wealth
-- [Pillar 1: Faith](../pillar-1-faith-and-knowing-allah.md) — the foundation of Amanah
+- [Pillar 1: Faith](../../pillar-1/) — the foundation of Amanah

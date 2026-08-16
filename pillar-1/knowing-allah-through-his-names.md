@@ -359,7 +359,7 @@ Let Him introduce Himself to you.
 
 - **Previous:** [The Quran — Your Instruction Manual for Existence](the-quran-your-instruction-manual.md)
 - **Next:** [Work as Worship — Turning Every Effort Into Ibadah](work-as-worship.md) (coming soon)
-- **Related:** [Pillar 1: Faith & Knowing Allah](../pillar-1-faith-and-knowing-allah.md), [The Quran — Your Instruction Manual](the-quran-your-instruction-manual.md), [Amanah — Sacred Trust](../concepts/amanah.md)
+- **Related:** [Pillar 1: Faith & Knowing Allah](../../pillar-1/), [The Quran — Your Instruction Manual](the-quran-your-instruction-manual.md), [Amanah — Sacred Trust](../concepts/amanah.md)
 
 ## Reflection Questions
 
