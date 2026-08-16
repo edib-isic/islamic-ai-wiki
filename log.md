@@ -24,6 +24,15 @@
 - Created _config.yml (GitHub Pages)
 - Pushed to: https://github.com/edib-isic/islamic-ai-wiki
 
+## [2026-08-15] create | Cornerstone Faith Chapters
+- pillar-1/the-quran-your-instruction-manual.md — Quran as instruction manual for humanity: purpose, modern crisis, peace, practical life guidance
+- pillar-1/knowing-allah-through-his-names.md — Deep dive into the 99 names, how each transforms your relationship with Allah, work, wealth, and peace (20k+ words)
+- pillar-1/work-as-worship.md — How every honest effort becomes ibadah when you understand the right intention
+- pillar-1/wealth-in-the-quran.md — Verses about money, trade, charity, and how to handle wealth correctly
+- pillar-1/tawakkul-vs-planning.md — Trusting Allah while taking action — what real Tawakkul means
+- pillar-1/islamic-business-ethics.md — Principles for halal business success: honesty, fairness, quality, and integrity
+- Updated index.md, pillar-1-faith-and-knowing-allah.md, cross-links between chapters
+
 ## [2026-08-15] create | AI for Halal Income Content
 - pillar-2/ai-freelancing-roadmap.md — 30-day path to first client
 - pillar-2/ai-agency-blueprint.md — Build a halal AI business
