@@ -3,8 +3,14 @@ title: Amanah — Sacred Trust
 created: 2026-08-15
 updated: 2026-08-15
 type: concept
-tags: [amanah, faith, wealth, ethics]
-sources: [raw/articles/tmi-mission-pledge-edib-2026.md, raw/articles/tmi-investor-profile-edib-2026.md]
+tags:
+  - amanah
+  - faith
+  - wealth
+  - ethics
+sources:
+  - raw/articles/tmi-mission-pledge-edib-2026.md
+  - raw/articles/tmi-investor-profile-edib-2026.md
 confidence: high
 ---
 # Amanah — Sacred Trust
