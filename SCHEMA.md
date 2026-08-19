@@ -3,6 +3,11 @@
 ## Domain
 Islamic Foundations + AI Mastery for Halal Success. A sadaqah jariyah knowledge base that bridges knowing Allah, earning halal through AI, and teaching others to benefit — structured so anyone can learn, teach, and act on it forever.
 
+This wiki includes:
+- **Wiki articles** (pillar-1, pillar-2, pillar-3): curated knowledge and guides
+- **Digitized books** (raw/books/): scanned historical books with OCR-extracted text
+- **LLM queries**: AI can answer from both the wiki and the digitized books with citations
+
 Three pillars:
 1. **Faith & Knowing Allah** — Quran, Sunnah, and Islamic principles on work, trade, knowledge, wealth, and ethics
 2. **AI for Halal Income** — Practical paths to earn through AI: agencies, freelancing, consulting, tools, services
@@ -62,6 +67,14 @@ sha256: <hex digest of the raw content below the frontmatter>
 
 Rule: every tag on a page must appear in this taxonomy. Add new tags here first before using them.
 
+## Tag Taxonomy for Digitized Books
+
+Additional tags for historical/scanned books:
+- **Book types**: book, primary-source, commentary, translation, introduction
+- **Languages**: arabic, german, bosnian, english
+- **Content**: fiqh, usul-fiqh, hadith, seerah, tafsir, sirah, usul-din, fiqh-muamalat, worship, salah, zakat, hajj, fasting, marriage, inheritance, ethics, du'a, dhikr
+- **Scholars**: scholar, author, institution, publisher
+
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source
 - **Add to existing page** when a source mentions something already covered
@@ -100,3 +113,26 @@ When new information conflicts with existing content:
 3. If genuinely contradictory, note both positions with dates/sources
 4. Mark contradictions in frontmatter: `contradictions: [page-name]`
 5. Flag for user review in lint report
+
+## Digitized Books Workflow
+
+### Book Ingestion Flow
+1. User drops scanned files (PDF/images) into `raw/books/<book-slug>/`
+2. Run OCR script: `python scripts/ocr_book.py raw/books/<book-slug>/book.pdf --lang <lang> --output raw/books/<book-slug>/<book-slug>-extracted.txt`
+3. Create a book metadata file in `entities/<book-slug>.md`
+4. Add to `index.md` → book becomes searchable and LLM-queriable.
+
+### Common OCR Languages
+- Arabic: `ara`
+- German: `deu`
+- Bosnian: `bos`
+- English: `eng`
+- Mixed: `ara+deu`, `ara+eng`
+
+### Citation Rule
+All answers derived from books must cite:
+- The book title or slug
+- The source text file
+- Page number or section
+
+Format: `[raw/books/fiqh-usul-islami/fiqh-usul-islami-extracted.txt, p.42]`
