@@ -8,9 +8,18 @@ This wiki exists as an ongoing charity resource. Every person who learns, applie
 
 ## Three Pillars
 
-1. **[Pillar 1: Faith & Knowing Allah](../pillar-1/)** — Quran, Sunnah, and Islamic principles on work, wealth, and ethics
-2. **[Pillar 2: AI for Halal Income](../pillar-2/)** — Practical paths to earn halal through AI: agencies, freelancing, consulting
-3. **[Pillar 3: Teaching Frameworks](../pillar-3/)** — Lesson plans and scripts so others can teach others
+1. **[Pillar 1: Faith & Knowing Allah](pillar-1/)** — Quran, Sunnah, and Islamic principles on work, wealth, and ethics
+2. **[Pillar 2: AI for Halal Income](pillar-2/)** — Practical paths to earn halal through AI: agencies, freelancing, consulting
+3. **[Pillar 3: Teaching Frameworks](pillar-3/)** — Lesson plans and scripts so others can teach others
+
+## Digitized Books (Raw Knowledge)
+
+Beyond the wiki articles, this project preserves scanned Islamic books as searchable, citable knowledge:
+
+- Books are scanned, OCR-processed, and stored in `raw/books/`
+- Python scripts handle OCR (`scripts/ocr_book.py`) and searching (`scripts/query_books.py`)
+- An AI assistant can answer questions directly from the books with page citations
+- This is the core Sadqa Jariya: every search, every learning moment generates ongoing reward
 
 ## Get Started
 

@@ -1,5 +1,14 @@
 # Wiki Action Log
 
+## [2026-08-18] create | Articles from Razgovor o Islamu (Dervis Hilmi)
+
+Two English wiki articles written from the OCR'd Bosnian book:
+
+- pillar-1/the-prophet-muhammad-his-human-character.md — The Prophet's fully human nature, his trustworthiness (al-Amin), his orphan childhood, the four pillars of his message (Tawhid, equality, justice, freedom), and his character as described in the Quran
+- pillar-1/islamic-equality-beyond-lineage.md — Radical Islamic equality: no tribal/lineage privilege, justice enforced even on the Prophet's daughter Fatimah, Bilal and Selman as living proof, condemnation of asabiyyah (tribal loyalty), connection to modern colonialism and racism
+
+Articles follow "Carpati style": every claim cites the source text with page numbers; articles are cross-referenced; written in clear English, not translated word-for-word from Bosnian.
+
 ## [2026-08-15] create | Wiki initialized
 - Domain: Islamic Foundations + AI Mastery for Halal Success (Sadaqah Jariyah)
 - Structure created with SCHEMA.md, index.md, log.md
@@ -46,3 +55,21 @@
 - pillar-1/the-quran-your-instruction-manual.md — Quran as instruction manual for humanity: purpose, modern crisis, peace, practical life guidance
 - pillar-1/knowing-allah-through-his-names.md — Deep dive into the 99 names, how each transforms your relationship with Allah, work, wealth, and peace (20k+ words)
 - Updated index.md, ../pillar-1/, cross-links between chapters
+
+## [2026-08-18] update | Added Digitized Books System (Sadqa Jariya)
+- Added raw/books/ directory for scanned historical Islamic books
+- Added scripts/ocr_book.py — OCR scanned PDFs using Tesseract (supports Arabic, German, Bosnian, English)
+- Added scripts/query_books.py — Search extracted text and build LLM-ready context with citations
+- Updated SCHEMA.md with book ingestion workflow and citation rules
+- Updated index.md with Digitized Books section
+- Updated README.md with digitized books explanation
+
+## [2026-08-18] ingest | Razgovor o Islamu by Dervis Hilmi
+- First digitized book added to the Islamic AI Wiki.
+- Book: Razgovor o Islamu (Conversation About Islam), Dervis Hilmi, Sarajevo 1982, Bosnian.
+- Scan: raw/books/razgovor-o-islamu/razgovor-o-islamu-1982.pdf (45 pages)
+- OCR: Tesseract 5.5.3 with Bosnian language (bos), 300 DPI.
+- Extracted text: raw/books/razgovor-o-islamu/razgovor-o-islamu-extracted.txt (~67k chars)
+- Created metadata page: entities/razgovor-o-islam-u.md
+- Created author page: entities/dervis-hilmi.md
+- Book is now searchable and LLM-queriable with page citations.

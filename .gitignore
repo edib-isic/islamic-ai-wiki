@@ -9,3 +9,6 @@ Thumbs.db
 
 # System
 desktop.ini
+
+# Large scanned book files (PDFs > 1MB)
+raw/books/*.pdf
